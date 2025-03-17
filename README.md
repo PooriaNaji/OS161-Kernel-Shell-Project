@@ -1,4 +1,4 @@
-# OS161-Kernel-Shell-Project
+![image](https://github.com/user-attachments/assets/f467e068-0d60-4174-aab2-9089053b5fad)# OS161-Kernel-Shell-Project
 
 This repository contains the source code developed as part of a group project during the Operating Systems course at Politecnico di Torino. The work was completed by three students as part of the course’s main assignment on kernel-level programming using the OS/161 educational operating system.
 
@@ -101,7 +101,7 @@ p /bin/sh
 
 ##  Contributors (Group Work)
 
-- **Pooria Naji Zavar Garmroudi** – System call implementation, fork-execv logic, shell testing  
+- **Pooria Naji Zavar Garmroudi** – System call implementation, fork-execv logic, shell testing , GitHub repository creation
 - **[Payamreza Pourreza](https://github.com/PYR-PRZ)** – Process structure, address space model (`dumbvm`), user program testing
 - **Mina Samadian** – File descriptor handling, documentation
 
@@ -140,6 +140,28 @@ This repository has intentionally been preserved in its original academic form t
 The present repository was assembled and uploaded by Pooria Naji Zavar Garmroudi for documentation and reference purposes. Although the original work was conducted collaboratively, this version reflects the contributor's own development effort, structure, and documentation as an individual submission artifact.
 
 ---
+##  Reference Documents & Attribution
+
+This project was completed as part of the Operating Systems course at **Politecnico di Torino**, under the supervision of:
+
+**Prof. Stefano Di Carlo**  
+GitHub: [japanninja74](https://github.com/japanninja74)  
+Email: stefano.dicarlo@polito.it
+
+The course involved kernel-level development using the OS/161 educational operating system. This repository contains the implementation of **Project 2: System Calls and Shell Interface** from the official assignment brief.
+
+To provide full context, the following supporting materials are included:
+
+- [`docs/OS-Presentation.pdf`](./docs/OS-Presentation.pdf)  
+  📑 **Final project presentation** prepared by our group.
+
+- [`docs/Professor_Project_Description.pdf`](./docs/Professor_Project_Description.pdf)  
+  📜 **Official course assignment document** provided by Professor Stefano Di Carlo.  
+  This document includes **two projects**:
+  - 2 **Implemented by our group**: *Project 2 - System Calls and Shell Interface in OS161*
+  - 1 Not implemented by us: *Project 1 - Synchronization Primitives and Threading*  
+  Only **Project 2** is implemented and available in this repository.
+
 
 ## 📄 License
 
