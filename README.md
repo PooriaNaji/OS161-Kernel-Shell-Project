@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/f467e068-0d60-4174-aab2-9089053b5fad)# OS161-Kernel-Shell-Project
-
 This repository contains the source code developed as part of a group project during the Operating Systems course at Politecnico di Torino. The work was completed by three students as part of the course’s main assignment on kernel-level programming using the OS/161 educational operating system.
 
 The project focused on implementing key system calls, enabling multi-process execution, exception handling, and supporting a functional user-level shell. The result was a working shell environment that executed user programs such as `pwd`, `cat`, and `/testbin/sort` through a fully implemented syscall interface.
